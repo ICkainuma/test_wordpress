@@ -6,7 +6,9 @@
  * Block Types: core/template-part/footer
  */
 ?>
-これはテストです
+これはテストですこれはテストですこれはテストですこれはテストです
+これはテストですこれはテストですこれはテストです
+これはテストですこれはテストですこれはテストです
 
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
